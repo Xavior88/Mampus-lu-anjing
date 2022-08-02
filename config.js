@@ -15,8 +15,8 @@ global.APIKeys = {
 }
 
 //═══════[ EDIT OWNER & SEGALA MACAM ]════════\\
-global.owner = ['6289652948525'] //Ganti Nomer Kamu
-global.pemilik = ['6289652948525'] //Ganti Nomer Kamu
+global.owner = ['6281908052908'] //Ganti Nomer Kamu
+global.pemilik = ['621908052908'] //Ganti Nomer Kamu
 global.premium = ['3584460008017','6289652948525'] // Add Nomer Kamu Gan, Contoh ['3584460008017','6289652948525','noLu']
 global.pengguna = 'Created By Elpezet24' //Ganti Nama Kamu
 global.botnma = 'XpeeBOT WhatsApp - MD' //Nama Bot Mu
